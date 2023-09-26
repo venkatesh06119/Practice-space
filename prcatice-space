@@ -1,0 +1,2 @@
+Ansible
+ansible all -a "yum remove git* -y"
